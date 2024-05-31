@@ -1,17 +1,17 @@
 
 # PROJETO-DISCOVER-ROCKETSEAT
 
-Uma link Tree desenvolvida ao longo do curso Discover da RocketSeat.
+Um link Tree desenvolvida ao longo do curso Discover da RocketSeat.
 
 ## Aprendizados
 
-Neste curso desenvolvi as abilidades de organizar, e otimizar meu codigo utlizando de feramentas como:
+Neste curso desenvolvi as habilidades de organizar, e otimizar meu código utilizando de ferramentas como:
 
 - Figma 
-- VSCode
+- VS Code
 - Inspecionador de elementos do Chrome
 
-Alem de aprimorar meus conhecimento em:
+Além de aprimorar meu conhecimento em:
 - HTML5
 - CSS3
 - JavaScript
@@ -23,4 +23,6 @@ Alem de aprimorar meus conhecimento em:
 - Preview em tempo real
 - Modo tela cheia
 - Multiplataforma
+
+![image](https://github.com/nathanaelreis/PROJETO-DISCOVER-ROCKETSEAT/assets/84293340/c89a5201-e385-4072-b727-64c27a2053f8)
 
