@@ -24,5 +24,7 @@ Além de aprimorar meu conhecimento em:
 - Modo tela cheia
 - Multiplataforma
 
-![image](https://github.com/nathanaelreis/PROJETO-DISCOVER-ROCKETSEAT/assets/84293340/c89a5201-e385-4072-b727-64c27a2053f8)
+![image](https://github.com/nathanaelreis/PROJETO-DISCOVER-ROCKETSEAT/assets/84293340/c89a5201-e385-4072-b727-64c27a2053f8)![image](https://github.com/nathanaelreis/PROJETO-DISCOVER-ROCKETSEAT/assets/84293340/c44b2637-ecc8-436b-8746-cf86084421b8)
+
+
 
